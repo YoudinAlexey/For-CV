@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天气</string>
+    <string name="hourly_weather">每小时的天气</string>
+    <string name="daily_weather">每日天气</string>
+    <string name="find_city">查找城市</string>
+    <string name="setting_vidget">窗口小部件设置</string>
+    <string name="hint_find_city">查找城市</string>
+    <string name="content_description_find_city">查找城市</string>
+    <string name="button_no">否</string>
+    <string name="button_yes">是</string>
+    <string name="error">输入和解名称</string>
+    <string name="errorFindCity">搜索错误，正确书写或在地图上找到</string>
+    <string name="help_find_field">在搜索字段中输入定居点的名称或在地图上查找</string>
+    <string name="confirmCityDialogTitle">确认城市对话框</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="no_selected_city">未选择城市</string>
+    <string name="temperature_units">温度单位</string>
+    <string name="temperature_units_c">摄氏度，C </string>
+    <string name="temperature_units_f">华氏温度，F </string>
+    <string name="interface_language">界面语言</string>
+    <string name="setting">应用程序设置</string>
+    <string name="delete_city">删除</string>
+    <string name="select_cities_to_delete_title">选择要删除的城市</string>
+    <string name="on_my_location_button_click">要选择附近的定居点，请单击您所在位置的指针。</string>
+    <string name="clouds_description">阴天</string>
+    <string name="rain_description">下雨的机会</string>
+    <string name="visibility">平均可见度</string>
+    <string name="metres">米</string>
+    <string name="feels_like_description">感觉（（日/夜）</string>
+    <string name="feels_like">感觉</string>
+    <string name="dayTemperature_min_max">白天温度（最低/最高）</string>
+    <string name="nightTemperature_min_max">夜间温度（最低/最高）</string>
+    <string name="precipitation_volume">降水量</string>
+    <string name="snow_volume">雪量</string>
+    <string name="pressure_description">压力</string>
+    <string name="humidity_description">湿度</string>
+    <string name="wind_speed_description">风速</string>
+    <string name="metre_sec">米/秒</string>
+    <string name="miles_hour">英里/小时</string>
+    <string name="widgetPromo">别忘了将小部件添加到手机主屏幕！</string>
+</resources>

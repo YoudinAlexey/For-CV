@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="hourly_weather">Почасовая погода</string>
+    <string name="daily_weather">Ежедневная погода</string>
+    <string name="find_city">Найти город</string>
+    <string name="setting_vidget">Настройка виджета</string>
+    <string name="hint_find_city">Найти город</string>
+    <string name="content_description_find_city">Найти город</string>
+    <string name="button_no">Нет</string>
+    <string name="button_yes">Да</string>
+    <string name="error">Введите название населенного пункта</string>
+    <string name="errorFindCity">Ошибка поиска, напишите правильно или найдите на карте</string>
+    <string name="help_find_field">Введите название населенного пункта в поле поиска или найдите на карте</string>
+    <string name="confirmCityDialogTitle">Диалог подтверждения города</string>
+    <string name="cancel">Отменить</string>
+    <string name="ok">ОК</string>
+    <string name="no_selected_city">Город не выбран</string>
+    <string name="temperature_units">Единицы измерения температуры</string>
+    <string name="temperature_units_c">градусов Цельсия, C</string>
+    <string name="temperature_units_f">по Фаренгейту, F</string>
+    <string name="interface_language">Язык интерфейса</string>
+    <string name="setting">Настройки приложения</string>
+    <string name="delete_city">Удалить</string>
+    <string name="select_cities_to_delete_title">Выберите города для удаления</string>
+    <string name="on_my_location_button_click">Чтобы выбрать населенные пункты поблизости, щелкните указатель своего местоположения.</string>
+    <string name="clouds_description">Облачность</string>
+    <string name="rain_description">Вероятность дождя</string>
+    <string name="visibility">Средняя видимость</string>
+    <string name="metres">метров</string>
+    <string name="feels_like_description">По ощущениям (день/ночь)</string>
+    <string name="feels_like">По ощущениям</string>
+    <string name="dayTemperature_min_max">Дневная температура (мин/макс)</string>
+    <string name="nightTemperature_min_max"> Ночная температура (мин./макс.)</string>
+    <string name="precipitation_volume">Объем осадков</string>
+    <string name="snow_volume">Объем снега</string>
+    <string name="pressure_description">Давление</string>
+    <string name="humidity_description">Влажность</string>
+    <string name="wind_speed_description">Скорость ветра</string>
+    <string name="metre_sec">метр/сек</string>
+    <string name="miles_hour">миль/час</string>
+    <string name="widgetPromo">Не забудьте добавить виджет на главный экран телефона!</string>
+</resources>

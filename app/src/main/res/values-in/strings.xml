@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuaca</string>
+    <string name="hourly_weather">Cuaca setiap jam</string>
+    <string name="daily_weather">Cuaca harian</string>
+    <string name="find_city">Temukan kota</string>
+    <string name="setting_vidget">Pengaturan widget</string>
+    <string name="hint_find_city">Temukan kota</string>
+    <string name="content_description_find_city">Temukan kota</string>
+    <string name="button_no">Tidak</string>
+    <string name="button_yes">Ya</string>
+    <string name="error">Masukkan nama pemukiman</string>
+    <string name="errorFindCity">Telusuri kesalahan, tulis dengan benar atau temukan di peta</string>
+    <string name="help_find_field">Masukkan nama pemukiman di bidang pencarian atau temukan di peta</string>
+    <string name="confirmCityDialogTitle">Konfirmasi dialog kota</string>
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Tidak ada kota yang dipilih</string>
+    <string name="temperature_units">Satuan suhu</string>
+    <string name="temperature_units_c">derajat Celsius, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Bahasa antarmuka</string>
+    <string name="setting">Pengaturan aplikasi</string>
+    <string name="delete_city">Hapus</string>
+    <string name="select_cities_to_delete_title">Pilih kota yang akan dihapus</string>
+    <string name="on_my_location_button_click">Untuk memilih permukiman terdekat, klik pada penunjuk lokasi Anda.</string>
+    <string name="clouds_description">Kekeruhan</string>
+    <string name="rain_description">Kemungkinan hujan</string>
+    <string name="visibility">Visibilitas rata-rata</string>
+    <string name="metres">meter</string>
+    <string name="feels_like_description">Terasa seperti (Siang/Malam)</string>
+    <string name="feels_like">Terasa seperti</string>
+    <string name="dayTemperature_min_max">Suhu siang hari (min/maks)</string>
+    <string name="nightTemperature_min_max">Suhu malam (min/maks)</string>
+    <string name="precipitation_volume">Volume curah hujan</string>
+    <string name="snow_volume">Volume salju</string>
+    <string name="pressure_description">Tekanan</string>
+    <string name="humidity_description">Kelembaban</string>
+    <string name="wind_speed_description">Kecepatan angin</string>
+    <string name="metre_sec">meter/detik</string>
+    <string name="miles_hour">mil/jam</string>
+    <string name="widgetPromo">Jangan lupa untuk menambahkan widget ke layar beranda ponsel Anda!</string>
+</resources>

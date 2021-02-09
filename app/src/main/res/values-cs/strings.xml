@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Počasí</string>
+    <string name="hourly_weather">Hodinové počasí</string>
+    <string name="daily_weather">Denní počasí</string>
+    <string name="find_city">Najít město</string>
+    <string name="setting_vidget">Nastavení widgetů</string>
+    <string name="hint_find_city">Najít město</string>
+    <string name="content_description_find_city">Najít město</string>
+    <string name="button_no">Ne</string>
+    <string name="button_yes">Ano</string>
+    <string name="error">Zadejte název osady</string>
+    <string name="errorFindCity">Chyba hledání, správné psaní nebo vyhledání na mapě</string>
+    <string name="help_find_field">Zadejte název osady do vyhledávacího pole nebo najděte na mapě</string>
+    <string name="confirmCityDialogTitle">Potvrdit dialog města</string>
+    <string name="cancel">Zrušit</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Žádné vybrané město</string>
+    <string name="temperature_units">Jednotky teploty</string>
+    <string name="temperature_units_c">stupně Celsia, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Jazyk rozhraní</string>
+    <string name="setting">Nastavení aplikace</string>
+    <string name="delete_city">Smazat</string>
+    <string name="select_cities_to_delete_title">Vyberte města, která chcete smazat</string>
+    <string name="on_my_location_button_click">Chcete-li vybrat sousední osady, klikněte na ukazatel vaší polohy.</string>
+    <string name="clouds_description">Oblačnost</string>
+    <string name="rain_description">Možnost deště</string>
+    <string name="visibility">Průměrná viditelnost</string>
+    <string name="metres">metrů</string>
+    <string name="feels_like_description">Cítí se jako (den / noc)</string>
+    <string name="feels_like">Cítí se jako</string>
+    <string name="dayTemperature_min_max">Denní teplota (min/max)</string>
+    <string name="nightTemperature_min_max">Noční teplota (min/max)</string>
+    <string name="precipitation_volume">Objem srážek</string>
+    <string name="snow_volume">Objem sněhu</string>
+    <string name="pressure_description">Tlak</string>
+    <string name="humidity_description">Vlhkost</string>
+    <string name="wind_speed_description">Rychlost větru</string>
+    <string name="metre_sec">metr/s</string>
+    <string name="miles_hour">míle/hodinu</string>
+    <string name="widgetPromo">Nezapomeňte přidat widget na domovskou obrazovku telefonu!</string>
+</resources>

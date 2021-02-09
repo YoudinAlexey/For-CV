@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">طقس</string>
+    <string name="hourly_weather"> الطقس كل ساعة </string>
+    <string name="daily_weather"> الطقس اليومي </string>
+    <string name="find_city"> بحث عن المدينة </string>
+    <string name="setting_vidget"> إعداد الأداة </string>
+    <string name="hint_find_city"> بحث عن المدينة </string>
+    <string name="content_description_find_city"> بحث عن المدينة </string>
+    <string name="button_no"> لا </string>
+    <string name="button_yes"> نعم </string>
+    <string name="error"> أدخل اسم التسوية </string>
+    <string name="errorFindCity"> خطأ في البحث ، اكتب بشكل صحيح أو ابحث على الخريطة </string>
+    <string name="help_find_field"> أدخل اسم المستوطنة في حقل البحث أو ابحث عنها على الخريطة </string>
+    <string name="confirmCityDialogTitle"> تأكيد مربع حوار المدينة </string>
+    <string name="cancel"> إلغاء </string>
+    <string name="ok"> موافق </string>
+    <string name="no_selected_city"> لا توجد مدينة محددة </string>
+    <string name="temperature_units"> وحدات درجة الحرارة </string>
+    <string name="temperature_units_c"> درجات مئوية ، C </string>
+    <string name="temperature_units_f"> فهرنهايت ، F </string>
+    <string name="interface_language"> لغة الواجهة </string>
+    <string name="setting"> إعدادات التطبيق </string>
+    <string name="delete_city"> حذف </string>
+    <string name="select_cities_to_delete_title"> حدد المدن المطلوب حذفها </string>
+    <string name="on_my_location_button_click"> لتحديد المستوطنات القريبة ، انقر فوق مؤشر موقعك. </string>
+    <string name="clouds_description"> غيوم </string>
+    <string name="rain_description"> فرصة هطول أمطار </string>
+    <string name="visibility"> متوسط ​​الرؤية </string>
+    <string name="metres"> متر </string>
+    <string name="feels_like_description"> تبدو وكأنها (ليل / نهار) </string>
+    <string name="feels_like"> تبدو وكأنها </string>
+    <string name="dayTemperature_min_max"> درجة حرارة النهار (الحد الأدنى / الحد الأقصى) </string>
+    <string name="nightTemperature_min_max"> درجة حرارة الليل (الحد الأدنى / الحد الأقصى) </string>
+    <string name="precipitation_volume"> حجم هطول الأمطار </string>
+    <string name="snow_volume"> حجم الثلج </string>
+    <string name="pressure_description"> الضغط </string>
+    <string name="humidity_description"> الرطوبة </string>
+    <string name="wind_speed_description"> سرعة الرياح </string>
+    <string name="metre_sec"> عداد / ثانية </string>
+    <string name="miles_hour">ميل / ساعة </string>
+    <string name="widgetPromo">لا تنس إضافة الأداة إلى الشاشة الرئيسية لهاتفك! </string>
+</resources>

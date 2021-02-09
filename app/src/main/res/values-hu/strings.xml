@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Időjárás</string>
+    <string name="hourly_weather">Óránkénti időjárás</string>
+    <string name="daily_weather">Napi időjárás</string>
+    <string name="find_city">Város keresése</string>
+    <string name="setting_vidget">Widget beállítása</string>
+    <string name="hint_find_city">Város keresése</string>
+    <string name="content_description_find_city">Város keresése</string>
+    <string name="button_no">Nem</string>
+    <string name="button_yes">Igen</string>
+    <string name="error">Írja be a település nevét</string>
+    <string name="errorFindCity">Keresési hiba, helyesen írjon vagy keressen a térképen</string>
+    <string name="help_find_field">Írja be a település nevét a keresőmezőbe, vagy keresse meg a térképen</string>
+    <string name="confirmCityDialogTitle">Város megerősítése párbeszédpanel</string>
+    <string name="cancel">Mégse</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Nincs kiválasztott város</string>
+    <string name="temperature_units">Hőmérsékleti egységek</string>
+    <string name="temperature_units_c">Celsius fok, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Interfész nyelve</string>
+    <string name="setting">Alkalmazásbeállítások</string>
+    <string name="delete_city">Törlés</string>
+    <string name="select_cities_to_delete_title">Válassza ki a törölni kívánt városokat</string>
+    <string name="on_my_location_button_click">A közeli települések kiválasztásához kattintson a helye mutatójára.</string>
+    <string name="clouds_description">Felhőség</string>
+    <string name="rain_description">Eső esélye</string>
+    <string name="visibility">Átlagos láthatóság</string>
+    <string name="metres">méter</string>
+    <string name="feels_like_description">Olyan, mint (Day / Night)</string>
+    <string name="feels_like">Olyan, mint</string>
+    <string name="dayTemperature_min_max">Nappali hőmérséklet (min/max)</string>
+    <string name="nightTemperature_min_max">Éjszakai hőmérséklet(min/max)</string>
+    <string name="precipitation_volume">Csapadék mennyisége</string>
+    <string name="snow_volume">Hómennyiség</string>
+    <string name="pressure_description">Nyomás</string>
+    <string name="humidity_description">Páratartalom</string>
+    <string name="wind_speed_description">Szélsebesség</string>
+    <string name="metre_sec">méter/sec</string>
+    <string name="miles_hour">mérföld/óra</string>
+    <string name="widgetPromo">Ne felejtse el hozzáadni a modult a telefon kezdőképernyőjéhez!</string>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="ua.youdin.weatherapp.ui.findCity.FindCityViewModel" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/findLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?colorSurface"
+            android:minWidth="@dimen/dp_300"
+            android:minHeight="@dimen/dp_300"
+            android:padding="@dimen/dp_8">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/textFieldFindCity"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center_horizontal"
+                android:hint="@string/hint_find_city"
+                android:lines="1"
+                app:endIconDrawable="@drawable/travel_explore_black_18dp"
+                app:endIconMode="custom"
+                app:error="@{viewModel.textErrorFieldFindCity}"
+                app:errorEnabled="true"
+                app:helperText="@string/help_find_field"
+                app:helperTextEnabled="true"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/findLayout"
+                app:startIconContentDescription="@string/content_description_find_city">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/textFieldFindCityInputEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionDone"
+                    android:inputType="text"
+                    android:singleLine="true"
+                    android:text="@={viewModel.textInFieldFindCity}" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!--        <androidx.cardview.widget.CardView-->
+
+            <!--            app:layout_constraintBottom_toTopOf="@+id/button_yes"-->
+            <!--            app:layout_constraintEnd_toEndOf="parent"-->
+            <!--            app:layout_constraintStart_toStartOf="parent"-->
+            <!--            app:layout_constraintTop_toBottomOf="@+id/textFieldFindCity">-->
+
+            <androidx.fragment.app.FragmentContainerView
+                android:id="@+id/map_for_find"
+                android:name="com.google.android.gms.maps.SupportMapFragment"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                app:layout_constraintBottom_toTopOf="@+id/button_yes"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textFieldFindCity" />
+            <!--        </androidx.cardview.widget.CardView>-->
+
+            <Button
+                android:id="@+id/button_yes"
+                style="?attr/materialButtonOutlinedStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:enabled="false"
+                android:text="@string/button_yes"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</layout>

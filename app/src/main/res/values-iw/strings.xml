@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מזג אוויר</string>
+    <string name="hourly_weather"> מזג אוויר לפי שעה </string>
+    <string name="daily_weather"> מזג אוויר יומי </string>
+    <string name="find_city"> מצא עיר </string>
+    <string name="setting_vidget"> הגדרת יישומון </string>
+    <string name="hint_find_city"> מצא עיר </string>
+    <string name="content_description_find_city"> מצא עיר </string>
+    <string name="button_no"> לא </string>
+    <string name="button_yes"> כן </string>
+    <string name="error"> הזן את שם היישוב </string>
+    <string name="errorFindCity"> שגיאת חיפוש, כתוב נכון או מצא על המפה </string>
+    <string name="help_find_field"> הזן את שם היישוב בשדה החיפוש או מצא על המפה </string>
+    <string name="confirmCityDialogTitle"> אשר דו-שיח עיר </string>
+    <string name="cancel"> ביטול </string>
+    <string name="ok"> אישור </string>
+    <string name="no_selected_city"> אין עיר שנבחרה </string>
+    <string name="temperature_units"> יחידות טמפרטורה </string>
+    <string name="temperature_units_c"> מעלות צלזיוס, C </string>
+    <string name="temperature_units_f"> פרנהייט, F </string>
+    <string name="interface_language"> שפת ממשק </string>
+    <string name="setting"> הגדרות יישום </string>
+    <string name="delete_city"> מחק </string>
+    <string name="select_cities_to_delete_title"> בחר ערים למחיקה </string>
+    <string name="on_my_location_button_click"> לבחירת יישובים בקרבת מקום, לחץ על המצביע של מיקומך. </string>
+    <string name="clouds_description"> עננות </string>
+    <string name="rain_description"> סיכוי לגשם </string>
+    <string name="visibility"> נראות ממוצעת </string>
+    <string name="metres"> מטרים </string>
+    <string name="feels_like_description"> מרגיש כמו (יום / לילה) </string>
+    <string name="feels_like"> מרגיש כמו </string>
+    <string name="dayTemperature_min_max"> טמפרטורת יום (דקות / מקסימום) </string>
+    <string name="nightTemperature_min_max"> טמפרטורת לילה (דקות / מקסימום) </string>
+    <string name="precipitation_volume"> נפח משקעים </string>
+    <string name="snow_volume"> נפח שלג </string>
+    <string name="pressure_description"> לחץ </string>
+    <string name="humidity_description"> לחות </string>
+    <string name="wind_speed_description"> מהירות רוח </string>
+    <string name="metre_sec"> מטר לשנייה </string>
+    <string name="miles_hour"> מיילים לשעה </string>
+    <string name="widgetPromo"> אל תשכח להוסיף את היישומון למסך הבית של הטלפון שלך! </string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La météo</string>
+    <string name="hourly_weather">Météo horaire</string>
+    <string name="daily_weather">Météo quotidienne</string>
+    <string name="find_city">Rechercher une ville</string>
+    <string name="setting_vidget">Paramètre du widget</string>
+    <string name="hint_find_city">Rechercher une ville</string>
+    <string name="content_description_find_city">Rechercher une ville</string>
+    <string name="button_no">Non</string>
+    <string name="button_yes">Oui</string>
+    <string name="error">Entrez le nom du règlement</string>
+    <string name="errorFindCity">Erreur de recherche, écriture correcte ou recherche sur la carte</string>
+    <string name="help_find_field">Entrez le nom de la colonie dans le champ de recherche ou recherchez sur la carte</string>
+    <string name="confirmCityDialogTitle">Boîte de dialogue Confirmer la ville</string>
+    <string name="cancel">Annuler</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Aucune ville sélectionnée</string>
+    <string name="temperature_units">Unités de température</string>
+    <string name="temperature_units_c">degrés Celsius, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Langue de l\'interface</string>
+    <string name="setting">Paramètres de l\'application</string>
+    <string name="delete_city">Supprimer</string>
+    <string name="select_cities_to_delete_title">Sélectionnez les villes à supprimer</string>
+    <string name="on_my_location_button_click">Pour sélectionner des localités à proximité, cliquez sur le pointeur de votre position.</string>
+    <string name="clouds_description">Nuage</string>
+    <string name="rain_description">Risque de pluie</string>
+    <string name="visibility">Visibilité moyenne</string>
+    <string name="metres">mètres</string>
+    <string name="feels_like_description">Ressenti comme (Jour/Nuit)</string>
+    <string name="feels_like">Ressenti comme</string>
+    <string name="dayTemperature_min_max">Température diurne (min/max)</string>
+    <string name="nightTemperature_min_max">Température nocturne (min/max)</string>
+    <string name="precipitation_volume">Volume des précipitations</string>
+    <string name="snow_volume">Volume de neige</string>
+    <string name="pressure_description">Pression</string>
+    <string name="humidity_description">Humidité</string>
+    <string name="wind_speed_description">Vitesse du vent</string>
+    <string name="metre_sec">mètre/s</string>
+    <string name="miles_hour">miles/heure</string>
+    <string name="widgetPromo">N\'oubliez pas d\'ajouter le widget à l\'écran d\'accueil de votre téléphone!</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hava</string>
+    <string name="hourly_weather">Saatlıq hava şəraiti</string>
+    <string name="daily_weather">Gündəlik hava</string>
+    <string name="find_city">şəhəri tap</string>
+    <string name="setting_vidget">Widget ayarı</string>
+    <string name="hint_find_city">şəhəri tap</string>
+    <string name="content_description_find_city">şəhəri tapın</string>
+    <string name="button_no">Xeyr</string>
+    <string name="button_yes">Bəli</string>
+    <string name="error">yaşayış məntəqəsinin adını daxil edin</string>
+    <string name="errorFindCity">Xətanı axtarın, düzgün yazın və ya xəritədə tapın</string>
+    <string name="help_find_field">Yaşayış məntəqəsinin adını axtarış sahəsinə daxil edin və ya xəritədə tapın</string>
+    <string name="confirmCityDialogTitle">Şəhər dialoqunu təsdiqləyin</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Seçilmiş şəhər yoxdur</string>
+    <string name="temperature_units">Temperatur vahidi</string>
+    <string name="temperature_units_c">Selsi dərəcəsi, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">İnterfeys dili</string>
+    <string name="setting">Tətbiq parametrləri</string>
+    <string name="delete_city">Sil</string>
+    <string name="select_cities_to_delete_title">Silmək üçün şəhərləri seçin</string>
+    <string name="on_my_location_button_click">Yaxınlıqdakı yaşayış məntəqələrini seçmək üçün məkanın göstəricisinə vurun.</string>
+    <string name="clouds_description">Buludluq</string>
+    <string name="rain_description">Yağış ehtimalı</string>
+    <string name="visibility">Orta görünürlük</string>
+    <string name="metres">metr</string>
+    <string name="feels_like_description">Hiss edir (Gündüz/Gecə)</string>
+    <string name="feels_like">Hiss edir</string>
+    <string name="dayTemperature_min_max">Gündüz istiliyi (min/max)</string>
+    <string name="nightTemperature_min_max">Gecə temperaturu (min/maks)</string>
+    <string name="precipitation_volume">Yağış həcmi</string>
+    <string name="snow_volume">qar həcmi</string>
+    <string name="pressure_description">Təzyiq</string>
+    <string name="humidity_description">Rütubət</string>
+    <string name="wind_speed_description">Külək sürəti</string>
+    <string name="metre_sec">metr/san</string>
+    <string name="miles_hour">mil/saat</string>
+    <string name="widgetPromo">Vidceti telefonunuzun ana ekranına əlavə etməyi unutmayın!</string>
+</resources>

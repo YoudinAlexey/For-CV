@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!--Tabs-->
+    <string name="hourly_weather">Hourly weather</string>
+    <string name="daily_weather">Daily weather</string>
+    <string name="find_city">Find city</string>
+    <string name="setting_vidget">Widget setting</string>
+    <!-- Find-->
+    <string name="hint_find_city">Find city</string>
+    <string name="content_description_find_city">Find city</string>
+    <string name="button_no">No</string>
+    <string name="button_yes">Yes</string>
+    <string name="error">Enter the name of the settlement</string>
+    <string name="errorFindCity">Search error, write correctly or find on the map</string>
+    <string name="help_find_field">Enter the name of the settlement in the search field or find on the map</string>
+    <string name="confirmCityDialogTitle">Confirm city dialog</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">No selected city</string>
+    <!--Setting-->
+    <string name="temperature_units">Temperature units</string>
+    <string name="temperature_units_c">degrees Celsius, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Interface language</string>
+    <string name="setting">Application settings</string>
+    <string name="delete_city">Delete</string>
+    <string name="select_cities_to_delete_title">Select cities to delete</string>
+    <string name="on_my_location_button_click">To select settlements nearby, click on the pointer of your location.</string>
+    <!--weather-->
+    <string name="clouds_description">Cloudiness</string>
+    <string name="rain_description">Chance of rain</string>
+    <string name="visibility">Average visibility</string>
+    <string name="metres">metres</string>
+    <string name="feels_like_description">Feels like (Day/Night)</string>
+    <string name="feels_like">Feels like</string>
+    <string name="dayTemperature_min_max">Daytime temperature (min/max)</string>
+    <string name="nightTemperature_min_max">Night temperature (min/max)</string>
+    <string name="precipitation_volume">Precipitation volume</string>
+    <string name="snow_volume">Snow volume</string>
+    <string name="pressure_description">Pressure</string>
+    <string name="humidity_description">Humidity</string>
+    <string name="wind_speed_description">Wind speed</string>
+    <string name="metre_sec">metre/sec</string>
+    <string name="miles_hour">miles/hour</string>
+    <string name="widgetPromo">Don\'t forget to add the widget to your phone home screen!</string>
+
+</resources>

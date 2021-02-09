@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Väder</string>
+    <string name="hourly_weather">Väder per timme</string>
+    <string name="daily_weather">Dagligt väder</string>
+    <string name="find_city">Hitta stad</string>
+    <string name="setting_vidget">Widgetinställning</string>
+    <string name="hint_find_city">Hitta stad</string>
+    <string name="content_description_find_city">Hitta stad</string>
+    <string name="button_no">Nej</string>
+    <string name="button_yes">Ja</string>
+    <string name="error">Ange namnet på avvecklingen</string>
+    <string name="errorFindCity">Sökfel, skriv korrekt eller hitta på kartan</string>
+    <string name="help_find_field">Ange namnet på bosättningen i sökfältet eller hitta på kartan</string>
+    <string name="confirmCityDialogTitle">Bekräfta stadsdialogruta</string>
+    <string name="cancel">Avbryt</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Ingen vald stad</string>
+    <string name="temperature_units">Temperaturenheter</string>
+    <string name="temperature_units_c">grader Celsius, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Gränssnittsspråk</string>
+    <string name="setting">Programinställningar</string>
+    <string name="delete_city">Radera</string>
+    <string name="select_cities_to_delete_title">Välj städer som ska raderas</string>
+    <string name="on_my_location_button_click">Klicka på pekaren för din plats för att välja bosättningar i närheten.</string>
+    <string name="clouds_description">Molnighet</string>
+    <string name="rain_description">Risk för regn</string>
+    <string name="visibility">Genomsnittlig synlighet</string>
+    <string name="metres">meter</string>
+    <string name="feels_like_description">Känns som (dag/natt)</string>
+    <string name="feels_like">Känns som</string>
+    <string name="dayTemperature_min_max">Dagtemperatur (min/max)</string>
+    <string name="nightTemperature_min_max">Natttemperatur (min/max)</string>
+    <string name="precipitation_volume">Nederbördsvolym</string>
+    <string name="snow_volume">Snövolym</string>
+    <string name="pressure_description">Tryck</string>
+    <string name="humidity_description">Luftfuktighet</string>
+    <string name="wind_speed_description">Vindhastighet</string>
+    <string name="metre_sec">mätare/sek</string>
+    <string name="miles_hour">miles/hour</string>
+    <string name="widgetPromo">Glöm inte att lägga till widgeten på telefonens startskärm!</string>
+</resources>

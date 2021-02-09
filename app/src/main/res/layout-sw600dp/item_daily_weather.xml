@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <variable
+            name="viewmodel"
+            type="ua.youdin.weatherapp.ui.weather.DailyWeatherViewModel" />
+
+        <variable
+            name="day"
+            type="ua.youdin.weatherapp.data.sourse.localSqlApi.tables.DailyWeatherDB" />
+
+        <variable
+            name="temperature_units"
+            type="Boolean" />
+
+        <variable
+            name="interface_language"
+            type="String" />
+    </data>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/aqa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dp_4"
+        android:layout_marginTop="@dimen/dp_2"
+        android:layout_marginEnd="@dimen/dp_4"
+        android:layout_marginBottom="@dimen/dp_2">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginTop="26dp"
+                android:layout_marginEnd="8dp"
+                android:contentDescription="@{day.weather_description}"
+                app:dateTransform="@{day.dt}"
+                app:layout_constraintDimensionRatio="2:1"
+                app:layout_constraintEnd_toStartOf="@+id/guideline2"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_chainStyle="spread"
+                app:setIcon="@{day.weather_id}"
+                app:timeZone="@{day.timezone}"
+                tools:srcCompat="@drawable/ic_01d" />
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="16dp"
+                android:gravity="center_horizontal"
+                android:maxLines="3"
+                app:autoSizeMaxTextSize="30sp"
+                app:autoSizeMinTextSize="10sp"
+                app:autoSizeStepGranularity="1sp"
+                app:autoSizeTextType="uniform"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/guideline2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView"
+                app:temperatureUnits="@{temperature_units}"
+                app:weatherDescription="@{day}"
+                tools:text="описание\nвероятость осадков\nоблачность " />
+            <!--            </LinearLayout>-->
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent="0.28" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/headerLayout"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/guideline2"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:gravity="end"
+                    android:maxLines="1"
+                    android:textAllCaps="true"
+                    app:autoSizeMaxTextSize="60sp"
+                    app:autoSizeMinTextSize="15sp"
+                    app:autoSizeStepGranularity="1sp"
+                    app:autoSizeTextType="uniform"
+                    app:dateTransform="@{day.dt}"
+                    app:interfaceLanguage="@{interface_language}"
+                    app:layout_constraintBottom_toTopOf="@+id/temperatureLayout"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.5"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_chainStyle="spread_inside"
+                    app:timeZone="@{day.timezone}"
+                    tools:text="Понедельник   15 мая 2021" />
+
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/temperatureLayout"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintBottom_toBottomOf="@+id/guideline30"
+                    app:layout_constraintEnd_toStartOf="@+id/guideline6"
+                    app:layout_constraintHorizontal_bias="0.5"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView">
+
+                    <ImageView
+                        android:id="@+id/imageView8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="25sp"
+                        android:baselineAlignBottom="true"
+                        app:layout_constraintBaseline_toBaselineOf="@+id/textView33"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:temperatureUnitsImage="@{temperature_units}"
+                        tools:srcCompat="@drawable/ic_celsius" />
+
+                    <TextView
+                        android:id="@+id/textView33"
+                        android:layout_width="0dp"
+                        android:layout_height="0dp"
+                        android:gravity="end"
+                        android:textAllCaps="true"
+                        android:textColor="?colorSecondary"
+                        android:textSize="40sp"
+                        android:textStyle="bold|italic"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toStartOf="@+id/imageView8"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:temperature="@{day}"
+                        tools:text="-25" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="24dp"
+                    android:orientation="horizontal"
+                    android:weightSum="2"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/guideline30">
+
+                    <TextView
+                        android:id="@+id/textViewBody"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginEnd="@dimen/dp_4"
+                        android:layout_weight="1"
+                        android:maxLines="4"
+                        android:minLines="4"
+                        android:textAlignment="viewStart"
+                        app:autoSizeMaxTextSize="20sp"
+                        app:autoSizeMinTextSize="12sp"
+                        app:autoSizeStepGranularity="1sp"
+                        app:autoSizeTextType="uniform"
+                        app:summarizeTemperature="@{day}"
+                        app:temperatureUnits="@{temperature_units}"
+                        tools:text="чувствуеться день / ночь\nдневная температура мин/макс\nночная температура  мин/макс
+                                                \n\nPrecipitation volume or Snow volume, mm\nAtmospheric pressure on the sea level, hPa\nHumidity, %
+                                                \nWind speed. " />
+
+
+                    <TextView
+                        android:id="@+id/textViewBody2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="@dimen/dp_4"
+                        android:layout_weight="1"
+
+                        android:maxLines="4"
+                        android:minLines="4"
+                        android:textAlignment="viewStart"
+                        app:autoSizeMaxTextSize="20sp"
+                        app:autoSizeMinTextSize="12sp"
+                        app:autoSizeStepGranularity="1sp"
+                        app:autoSizeTextType="uniform"
+                        app:summarizeWeather="@{day}"
+                        app:temperatureUnits="@{temperature_units}"
+                        tools:text="Atmospheric pressure on the sea level, hPa\n
+                                    Humidity, %\n
+                                    Wind speed. " />
+
+                </LinearLayout>
+
+                <androidx.constraintlayout.widget.Guideline
+                    android:id="@+id/guideline30"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    app:layout_constraintGuide_percent="0.45" />
+
+                <androidx.constraintlayout.widget.Guideline
+                    android:id="@+id/guideline6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    app:layout_constraintGuide_percent="0.66" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</layout>

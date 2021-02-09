@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Color palette-->
+    <color name="gray_920">#3f4040</color> <!--Color primary (light)-->
+    <color name="gray_950">#191a1a</color> <!--Color primary variant (light)-->
+    <color name="wite">#ffffff</color><!--color on Primary (light)-->
+    <color name="yelow_200">#ffee58</color> <!--Color secondary (light)-->
+    <color name="yelow_500">#c9bc1f</color> <!--Color secondary variant (light)-->
+    <color name="black_800">#000000</color><!--color on Secondary (light)-->
+    <color name="gray_550">#5a5b5b</color><!--Color background (light)-->
+    <color name="gray_400">#7b7b7b</color><!--Color surface (light)#E1E6E6-->
+    <color name="red_600_">#E21B1B</color> <!--Color error (light)-->
+    <color name="gray_600">#000000</color> <!--Color onError (light)-->
+    <color name="gray_900_">#151B1E</color> <!--Color background (dark)-->
+    <color name="gray_700">#263238</color> <!--Color surface (dark)-->
+    <color name="col_monday">#8A06FD</color>
+    <color name="col_tuesday">#0F0FFD</color>
+    <color name="col_wednesday">#69DEEF</color>
+    <color name="col_thursday">#59FD35</color>
+    <color name="col_friday">#FAA403</color>
+    <color name="col_saturday">#FA7303</color>
+    <color name="col_sunday">#AC2929</color>
+    <color name="gray_500">#B1BCBB</color> <!--Color background Small-->
+    <color name="transparent_color">#661C1C1C</color>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">สภาพอากาศ</string>
+    <string name="hourly_weather">สภาพอากาศรายชั่วโมง</string>
+    <string name="daily_weather">สภาพอากาศประจำวัน</string>
+    <string name="find_city">ค้นหาเมือง</string>
+    <string name="setting_vidget">การตั้งค่าวิดเจ็ต</string>
+    <string name="hint_find_city">ค้นหาเมือง</string>
+    <string name="content_description_find_city">ค้นหาเมือง</string>
+    <string name="button_no">ไม่</string>
+    <string name="button_yes">ใช่</string>
+    <string name="error">ป้อนชื่อข้อตกลง</string>
+    <string name="errorFindCity">ข้อผิดพลาดในการค้นหาเขียนถูกต้องหรือค้นหาบนแผนที่</string>
+    <string name="help_find_field">ป้อนชื่อการตั้งถิ่นฐานในช่องค้นหาหรือค้นหาบนแผนที่</string>
+    <string name="confirmCityDialogTitle">กล่องโต้ตอบยืนยันเมือง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="ok">ตกลง</string>
+    <string name="no_selected_city">ไม่ได้เลือกเมือง</string>
+    <string name="temperature_units">หน่วยอุณหภูมิ</string>
+    <string name="temperature_units_c">องศาเซลเซียส C</string>
+    <string name="temperature_units_f">ฟาเรนไฮต์ F</string>
+    <string name="interface_language">ภาษาอินเทอร์เฟซ</string>
+    <string name="setting">การตั้งค่าแอปพลิเคชัน</string>
+    <string name="delete_city">ลบ</string>
+    <string name="select_cities_to_delete_title">เลือกเมืองที่จะลบ</string>
+    <string name="on_my_location_button_click">หากต้องการเลือกการตั้งถิ่นฐานในบริเวณใกล้เคียงให้คลิกที่ตัวชี้ตำแหน่งของคุณ</string>
+    <string name="clouds_description">ความขุ่น</string>
+    <string name="rain_description">มีโอกาสเกิดฝนตก</string>
+    <string name="visibility">การเปิดเผยเฉลี่ย</string>
+    <string name="metres">เมตร</string>
+    <string name="feels_like_description">รู้สึกเหมือน (กลางวัน/กลางคืน)</string>
+    <string name="feels_like">รู้สึกเหมือน</string>
+    <string name="dayTemperature_min_max">อุณหภูมิตอนกลางวัน (ต่ำสุด/สูงสุด)</string>
+    <string name="nightTemperature_min_max">อุณหภูมิกลางคืน (ต่ำสุด/สูงสุด)</string>
+    <string name="precipitation_volume">ปริมาณหยาดน้ำฟ้า</string>
+    <string name="snow_volume">ปริมาณหิมะ</string>
+    <string name="pressure_description">ความดัน</string>
+    <string name="humidity_description">ความชื้น</string>
+    <string name="wind_speed_description">ความเร็วลม</string>
+    <string name="metre_sec">เมตร/วินาที</string>
+    <string name="miles_hour">ไมล์/ชั่วโมง</string>
+    <string name="widgetPromo">อย่าลืมเพิ่มวิดเจ็ตในหน้าจอหลักของโทรศัพท์!</string>
+</resources>

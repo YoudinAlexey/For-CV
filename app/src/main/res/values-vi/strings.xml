@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thời tiết</string>
+    <string name="hourly_weather">Thời tiết hàng giờ</string>
+    <string name="daily_weather">Thời tiết hàng ngày</string>
+    <string name="find_city">Tìm thành phố</string>
+    <string name="setting_vidget">Cài đặt tiện ích con</string>
+    <string name="hint_find_city">Tìm thành phố</string>
+    <string name="content_description_find_city">Tìm thành phố</string>
+    <string name="button_no">Không</string>
+    <string name="button_yes">Có</string>
+    <string name="error">Nhập tên của thỏa thuận thanh toán</string>
+    <string name="errorFindCity">Lỗi tìm kiếm, viết đúng hoặc tìm trên bản đồ</string>
+    <string name="help_find_field">Nhập tên của khu định cư vào trường tìm kiếm hoặc tìm trên bản đồ</string>
+    <string name="confirmCityDialogTitle">Hộp thoại xác nhận thành phố</string>
+    <string name="cancel">Huỷ</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Không có thành phố nào được chọn</string>
+    <string name="temperature_units">Đơn vị nhiệt độ</string>
+    <string name="temperature_units_c">độ C, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Ngôn ngữ giao diện</string>
+    <string name="setting">Cài đặt ứng dụng</string>
+    <string name="delete_city">Xóa</string>
+    <string name="select_cities_to_delete_title">Chọn các thành phố để xóa</string>
+    <string name="on_my_location_button_click">Để chọn các khu định cư lân cận, hãy nhấp vào con trỏ vị trí của bạn.</string>
+    <string name="clouds_description">Mây</string>
+    <string name="rain_description">Có thể có mưa</string>
+    <string name="visibility">Khả năng hiển thị trung bình</string>
+    <string name="metres">mét</string>
+    <string name="feels_like_description">Cảm thấy thích (Ngày/Đêm)</string>
+    <string name="feels_like">Cảm thấy thích</string>
+    <string name="dayTemperature_min_max">Nhiệt độ ban ngày (tối thiểu/tối đa)</string>
+    <string name="nightTemperature_min_max">Nhiệt độ ban đêm (tối thiểu/tối đa)</string>
+    <string name="precipitation_volume">Lượng mưa</string>
+    <string name="snow_volume">Lượng tuyết</string>
+    <string name="pressure_description">Áp suất</string>
+    <string name="humidity_description">Độ ẩm</string>
+    <string name="wind_speed_description">Tốc độ gió</string>
+    <string name="metre_sec">mét/giây</string>
+    <string name="miles_hour">dặm/giờ</string>
+    <string name="widgetPromo">Đừng quên thêm tiện ích vào màn hình chính điện thoại của bạn!</string>
+</resources>

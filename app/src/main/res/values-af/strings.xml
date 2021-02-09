@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weer</string>
+    <string name="hourly_weather">Uurlikse weer</string>
+    <string name="daily_weather">Daaglikse weer</string>
+    <string name="find_city">Vind stad</string>
+    <string name="setting_vidget">Widget-instelling</string>
+    <string name="hint_find_city">Vind stad</string>
+    <string name="content_description_find_city">Vind stad</string>
+    <string name="button_no">Nee</string>
+    <string name="button_yes">Ja</string>
+    <string name="error">Voer die naam van die nedersetting in</string>
+    <string name="errorFindCity">Soekfout, skryf korrek of vind op die kaart</string>
+    <string name="help_find_field">Voer die naam van die nedersetting in die soekveld in of vind op die kaart</string>
+    <string name="confirmCityDialogTitle">Bevestig stadsdialoog</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Geen geselekteerde stad</string>
+    <string name="temperature_units">Temperatuur-eenhede</string>
+    <string name="temperature_units_c">grade Celsius, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Interface taal</string>
+    <string name="setting">Toepassingsinstellings</string>
+    <string name="delete_city">Vee uit</string>
+    <string name="select_cities_to_delete_title">Kies stede om uit te wis</string>
+    <string name="on_my_location_button_click">Om nedersettings in die omgewing te kies, klik op die wyser van u plek.</string>
+    <string name="clouds_description">Bewolking</string>
+    <string name="rain_description">Kans op reën</string>
+    <string name="visibility">Gemiddelde sigbaarheid</string>
+    <string name="metres">meter</string>
+    <string name="feels_like_description">Voel soos (dag/nag)</string>
+    <string name="feels_like">Voel soos</string>
+    <string name="dayTemperature_min_max">Dagtemperatuur(min/maksimum)</string>
+    <string name="nightTemperature_min_max">Nagtemperatuur (min/maksimum)</string>
+    <string name="precipitation_volume">Neerslagvolume</string>
+    <string name="snow_volume">Sneeuvolume</string>
+    <string name="pressure_description">Druk</string>
+    <string name="humidity_description">Humiditeit</string>
+    <string name="wind_speed_description">Windspoed</string>
+    <string name="metre_sec">meter/sek</string>
+    <string name="miles_hour">myl/uur</string>
+    <string name="widgetPromo">Moenie vergeet om die widget by u tuisskerm te voeg nie!</string>
+</resources>

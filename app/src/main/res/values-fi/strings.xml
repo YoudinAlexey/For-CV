@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sää</string>
+    <string name="hourly_weather">Sää tunneittain</string>
+    <string name="daily_weather">Päivittäinen sää</string>
+    <string name="find_city">Etsi kaupunki</string>
+    <string name="setting_vidget">Widget-asetus</string>
+    <string name="hint_find_city">Etsi kaupunki</string>
+    <string name="content_description_find_city">Etsi kaupunki</string>
+    <string name="button_no">Ei</string>
+    <string name="button_yes">Kyllä</string>
+    <string name="error">Anna taudin nimi</string>
+    <string name="errorFindCity">Hakuvirhe, kirjoita oikein tai etsi kartalta</string>
+    <string name="help_find_field">Syötä taajaman nimi hakukenttään tai etsi kartalta</string>
+    <string name="confirmCityDialogTitle">Vahvista kaupunki -valintaikkuna</string>
+    <string name="cancel">Peruuta</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Ei valittua kaupunkia</string>
+    <string name="temperature_units">Lämpötilayksiköt</string>
+    <string name="temperature_units_c">celsiusastetta, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Liitännän kieli</string>
+    <string name="setting">Sovelluksen asetukset</string>
+    <string name="delete_city">Poista</string>
+    <string name="select_cities_to_delete_title">Valitse poistettavat kaupungit</string>
+    <string name="on_my_location_button_click">Voit valita läheisiä asutuksia napsauttamalla sijaintisi osoittinta.</string>
+    <string name="clouds_description">Pilvisyys</string>
+    <string name="rain_description">Sateen mahdollisuus</string>
+    <string name="visibility">Keskimääräinen näkyvyys</string>
+    <string name="metres">metriä</string>
+    <string name="feels_like_description">Tuntuu (päivä/yö)</string>
+    <string name="feels_like">Tuntuu</string>
+    <string name="dayTemperature_min_max">Päivälämpötila (min/max)</string>
+    <string name="nightTemperature_min_max">Yölämpötila (min/max)</string>
+    <string name="precipitation_volume">Sademäärä</string>
+    <string name="snow_volume">Lumen määrä</string>
+    <string name="pressure_description">Paine</string>
+    <string name="humidity_description">Kosteus</string>
+    <string name="wind_speed_description">Tuulen nopeus</string>
+    <string name="metre_sec">metri/s </string>
+    <string name="miles_hour">mailia/tunti</string>
+    <string name="widgetPromo">Älä unohda lisätä widgetiä puhelimesi aloitusnäyttöön!</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moti</string>
+    <string name="hourly_weather">Moti për orë</string>
+    <string name="daily_weather">Moti ditor</string>
+    <string name="find_city">Gjeni qytetin</string>
+    <string name="setting_vidget">vendosja e widget-it</string>
+    <string name="hint_find_city">Gjeni qytetin</string>
+    <string name="content_description_find_city">Gjeni qytetin</string>
+    <string name="button_no">Jo</string>
+    <string name="button_yes">Po</string>
+    <string name="error">Vendosni emrin e vendbanimit</string>
+    <string name="errorFindCity">Gabim kërkimi, shkruani saktë ose gjeni në hartë</string>
+    <string name="help_find_field">Vendosni emrin e vendbanimit në fushën e kërkimit ose gjeni në hartë</string>
+    <string name="confirmCityDialogTitle">Konfirmo dialogun e qytetit</string>
+    <string name="cancel">Anulo</string>
+    <string name="ok">Në rregull</string>
+    <string name="no_selected_city">Asnjë qytet i zgjedhur</string>
+    <string name="temperature_units">Njësitë e temperaturës</string>
+    <string name="temperature_units_c">gradë Celsius, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Gjuha e ndërfaqes</string>
+    <string name="setting">Cilësimet e aplikacionit</string>
+    <string name="delete_city">Fshi</string>
+    <string name="select_cities_to_delete_title">Zgjidh qytetet për t\'u fshirë</string>
+    <string name="on_my_location_button_click">Për të zgjedhur vendbanimet afër, klikoni në treguesin e vendndodhjes suaj.</string>
+    <string name="clouds_description">Mjegullimi</string>
+    <string name="rain_description">Mundësia e shiut</string>
+    <string name="visibility">Dukshmëria mesatare</string>
+    <string name="metres">metra</string>
+    <string name="feels_like_description">Ndihet si (Dita/Nata)</string>
+    <string name="feels_like">Ndihet si</string>
+    <string name="dayTemperature_min_max">Temperatura e ditës (min/maks.)</string>
+    <string name="nightTemperature_min_max">Temperatura e natës (min/maks.)</string>
+    <string name="precipitation_volume">vëllimi i rreshjeve</string>
+    <string name="snow_volume">Vëllimi i borës</string>
+    <string name="pressure_description">Presioni</string>
+    <string name="humidity_description">Lagështia</string>
+    <string name="wind_speed_description">Shpejtësia e erës</string>
+    <string name="metre_sec">metër/sek</string>
+    <string name="miles_hour">milje/orë</string>
+    <string name="widgetPromo">Mos harroni të shtoni widget në ekranin kryesor të telefonit tuaj!</string>
+</resources>

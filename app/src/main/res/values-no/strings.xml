@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vær</string>
+    <string name="hourly_weather">Vær per time</string>
+    <string name="daily_weather">Daglig vær</string>
+    <string name="find_city">Finn by</string>
+    <string name="setting_vidget">Widget-innstilling</string>
+    <string name="hint_find_city">Finn by</string>
+    <string name="content_description_find_city">Finn by</string>
+    <string name="button_no">Nei</string>
+    <string name="button_yes">Ja</string>
+    <string name="error">Skriv inn navnet på oppgjøret</string>
+    <string name="errorFindCity">Søkefeil, skriv riktig eller finn på kartet</string>
+    <string name="help_find_field">Skriv inn navnet på bosetningen i søkefeltet eller finn på kartet</string>
+    <string name="confirmCityDialogTitle">Bekreft bydialog</string>
+    <string name="cancel">Avbryt</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Ingen valgt by</string>
+    <string name="temperature_units">Temperaturenheter</string>
+    <string name="temperature_units_c">grader Celsius, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Grensesnitt språk</string>
+    <string name="setting">Programinnstillinger</string>
+    <string name="delete_city">Slett</string>
+    <string name="select_cities_to_delete_title">Velg byer som skal slettes</string>
+    <string name="on_my_location_button_click">For å velge bosetninger i nærheten, klikk på pekeren til stedet du befinner deg.</string>
+    <string name="clouds_description">Uklarhet</string>
+    <string name="rain_description">Mulighet for regn</string>
+    <string name="visibility">Gjennomsnittlig synlighet</string>
+    <string name="metres">meter</string>
+    <string name="feels_like_description">Føles som (dag/natt)</string>
+    <string name="feels_like">Føles som</string>
+    <string name="dayTemperature_min_max">Dagtemperatur (min/maks)</string>
+    <string name="nightTemperature_min_max">Natttemperatur (min/maks)</string>
+    <string name="precipitation_volume">Nedbørsvolum</string>
+    <string name="snow_volume">Snøvolum</string>
+    <string name="pressure_description">Trykk</string>
+    <string name="humidity_description">Fuktighet</string>
+    <string name="wind_speed_description">Vindhastighet</string>
+    <string name="metre_sec">meter/sek</string>
+    <string name="miles_hour">miles/time</string>
+    <string name="widgetPromo">Ikke glem å legge til widgeten på startskjermen på telefonen!</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="?android:colorBackground">
+    <PreferenceCategory android:title="@string/setting">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="temperature_units_preference"
+            android:summaryOff="@string/temperature_units_f"
+            android:summaryOn="@string/temperature_units_c"
+            android:title="@string/temperature_units" />
+        <ListPreference
+            android:defaultValue="en"
+            android:entries="@array/lang_entries"
+            android:entryValues="@array/lang_entry_values"
+            android:key="interface_language_preference"
+            android:summary=""
+            android:title="@string/interface_language" />
+    </PreferenceCategory>
+</PreferenceScreen>

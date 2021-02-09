@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मौसम</string>
+    <string name="hourly_weather">प्रति घंटा मौसम</string>
+    <string name="daily_weather">दैनिक मौसम</string>
+    <string name="find_city">शहर ढूंढें</string>
+    <string name="setting_vidget">विजेट सेटिंग</string>
+    <string name="hint_find_city">शहर ढूंढें</string>
+    <string name="content_description_find_city">शहर ढूंढें</string>
+    <string name="button_no">नहीं</string>
+    <string name="button_yes">Yes</string>
+    <string name="error">निपटान का नाम दर्ज करें</string>
+    <string name="errorFindCity">खोज त्रुटि, सही लिखें या मानचित्र पर ढूंढें</string>
+    <string name="help_find_field">खोज फ़ील्ड में निपटान का नाम दर्ज करें या मानचित्र पर ढूंढें</string>
+    <string name="confirmCityDialogTitle">शहर संवाद की पुष्टि करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">कोई चयनित शहर नहीं</string>
+    <string name="temperature_units">तापमान इकाइयाँ</string>
+    <string name="temperature_units_c">डिग्री सेल्सियस, C</string>
+    <string name="temperature_units_f">फ़ारेनहाइट, F</string>
+    <string name="interface_language">इंटरफ़ेस भाषा</string>
+    <string name="setting">एप्लिकेशन सेटिंग</string>
+    <string name="delete_city">हटाएँ</string>
+    <string name="select_cities_to_delete_title">हटाने के लिए शहरों का चयन करें</string>
+    <string name="on_my_location_button_click"> ास की बस्तियों का चयन करने के लिए, अपने स्थान के सूचक पर क्लिक करें।</string>
+    <string name="clouds_description">बादल</string>
+    <string name="rain_description">बारिश की संभावना</string>
+    <string name="visibility">औसत दृश्यता</string>
+    <string name="metres">मीटर</string>
+    <string name="feels_like_description">जैसा महसूस होता है (दिन/रात)</string>
+    <string name="feels_like">लगता है</string>
+    <string name="dayTemperature_min_max">दिन का तापमान (न्यूनतम/अधिकतम)</string>
+    <string name="nightTemperature_min_max">रात का तापमान (न्यूनतम/अधिकतम)</string>
+    <string name="precipitation_volume">वर्षा की मात्रा</string>
+    <string name="snow_volume">स्नो वॉल्यूम</string>
+    <string name="pressure_description">दबाव</string>
+    <string name="humidity_description">आर्द्रता</string>
+    <string name="wind_speed_description">हवा की गति</string>
+    <string name="metre_sec">मीटर/सेकंड</string>
+    <string name="miles_hour">मील/घंटा </string>
+    <string name="widgetPromo">अपने फोन की होम स्क्रीन पर विजेट जोड़ना न भूलें!</string>
+</resources>

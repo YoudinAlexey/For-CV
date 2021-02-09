@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laikapstākļi</string>
+    <string name="hourly_weather">Laika apstākļi stundās</string>
+    <string name="daily_weather">Laika apstākļi dienā</string>
+    <string name="find_city">Atrast pilsētu</string>
+    <string name="setting_vidget">Logrīka iestatījums</string>
+    <string name="hint_find_city">Atrast pilsētu</string>
+    <string name="content_description_find_city">Atrast pilsētu</string>
+    <string name="button_no">Nē</string>
+    <string name="button_yes">Jā</string>
+    <string name="error">Ievadiet norēķinu nosaukumu</string>
+    <string name="errorFindCity">Meklēšanas kļūda, pareizi uzrakstiet vai atrodiet kartē</string>
+    <string name="help_find_field">Ievadiet apdzīvotas vietas nosaukumu meklēšanas laukā vai atrodiet kartē</string>
+    <string name="confirmCityDialogTitle">Apstiprināt pilsētas dialogu</string>
+    <string name="cancel">Atcelt</string>
+    <string name="ok">Labi</string>
+    <string name="no_selected_city">Nav atlasītas pilsētas</string>
+    <string name="temperature_units">Temperatūras vienības</string>
+    <string name="temperature_units_c">grādi pēc Celsija, C</string>
+    <string name="temperature_units_f">Fārenheita, F</string>
+    <string name="interface_language">Saskarnes valoda</string>
+    <string name="setting">Lietojumprogrammas iestatījumi</string>
+    <string name="delete_city">Dzēst</string>
+    <string name="select_cities_to_delete_title">Atlasiet dzēšamās pilsētas</string>
+    <string name="on_my_location_button_click">Lai atlasītu apdzīvotās vietas netālu, noklikšķiniet uz savas atrašanās vietas rādītāja.</string>
+    <string name="clouds_description">Mākoņainība</string>
+    <string name="rain_description">Lietus iespējamība</string>
+    <string name="visibility">Vidējā redzamība</string>
+    <string name="metres">metri</string>
+    <string name="feels_like_description">Jūtas kā (diena/nakts)</string>
+    <string name="feels_like">Jūtas kā</string>
+    <string name="dayTemperature_min_max">Dienas temperatūra (min/max)</string>
+    <string name="nightTemperature_min_max">Nakts temperatūra (min/maks.)</string>
+    <string name="precipitation_volume">Nokrišņu daudzums</string>
+    <string name="snow_volume">Sniega daudzums</string>
+    <string name="pressure_description">Spiediens</string>
+    <string name="humidity_description">Mitrums</string>
+    <string name="wind_speed_description">Vēja ātrums</string>
+    <string name="metre_sec">metrs/s</string>
+    <string name="miles_hour">jūdzes/stundā</string>
+    <string name="widgetPromo">Neaizmirstiet pievienot logrīku tālruņa sākuma ekrānā!</string>
+</resources>

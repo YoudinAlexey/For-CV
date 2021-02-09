@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="hourly_weather">Pogoda godzinowa</string>
+    <string name="daily_weather">Codzienna pogoda</string>
+    <string name="find_city">Znajdź miasto</string>
+    <string name="setting_vidget">Ustawienie widżetu</string>
+    <string name="hint_find_city">Znajdź miasto</string>
+    <string name="content_description_find_city">Znajdź miasto</string>
+    <string name="button_no">Nie</string>
+    <string name="button_yes">Tak</string>
+    <string name="error">Wprowadź nazwę miejscowości</string>
+    <string name="errorFindCity">Błąd wyszukiwania, pisz poprawnie lub znajdź na mapie</string>
+    <string name="help_find_field">Wpisz nazwę miejscowości w polu wyszukiwania lub znajdź na mapie</string>
+    <string name="confirmCityDialogTitle">Potwierdź okno dialogowe miasta</string>
+    <string name="cancel">Anuluj</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Brak wybranego miasta</string>
+    <string name="temperature_units">Jednostki temperatury</string>
+    <string name="temperature_units_c">stopnie Celsjusza, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Język interfejsu</string>
+    <string name="setting">Ustawienia aplikacji</string>
+    <string name="delete_city">Usuń</string>
+    <string name="select_cities_to_delete_title">Wybierz miasta do usunięcia</string>
+    <string name="on_my_location_button_click">Aby wybrać pobliskie osady, kliknij wskaźnik swojej lokalizacji.</string>
+    <string name="clouds_description">Zachmurzenie</string>
+    <string name="rain_description">Możliwy deszcz</string>
+    <string name="visibility">Średnia widoczność</string>
+    <string name="metres">metry</string>
+    <string name="feels_like_description">Wygląda jak (dzień/noc)</string>
+    <string name="feels_like">Czuje się jak</string>
+    <string name="dayTemperature_min_max">Temperatura w dzień (min/max)</string>
+    <string name="nightTemperature_min_max">Temperatura nocna (min/max)</string>
+    <string name="precipitation_volume">Objętość opadów</string>
+    <string name="snow_volume">Ilość śniegu</string>
+    <string name="pressure_description">Ciśnienie</string>
+    <string name="humidity_description">Wilgotność</string>
+    <string name="wind_speed_description">Prędkość wiatru</string>
+    <string name="metre_sec">metr/s</string>
+    <string name="miles_hour">mile/godzinę</string>
+    <string name="widgetPromo">Nie zapomnij dodać widżetu do ekranu głównego telefonu!</string>
+    styczeń
+</resources>

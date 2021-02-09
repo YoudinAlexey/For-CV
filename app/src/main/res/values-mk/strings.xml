@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Времето</string>
+    <string name="hourly_weather">Часовно времето</string>
+    <string name="daily_weather">Дневно времето</string>
+    <string name="find_city">Пронајди град</string>
+    <string name="setting_vidget">поставување на графичка контрола</string>
+    <string name="hint_find_city"> Пронајди град </string>
+    <string name="content_description_find_city">Пронајдете град</string>
+    <string name="button_no">Не</string>
+    <string name="button_yes">Да</string>
+    <string name="error">Внесете го името на населбата</string>
+    <string name="errorFindCity">Грешка во пребарувањето, напишете правилно или пронајдете на картата</string>
+    <string name="help_find_field">Внесете го името на населбата во полето за пребарување или пронајдете на картата</string>
+    <string name="confirmCityDialogTitle">Потврди градски дијалог</string>
+    <string name="cancel">Откажи</string>
+    <string name="ok">Добро</string>
+    <string name="no_selected_city">Нема избран град</string>
+    <string name="temperature_units">Температурни единици</string>
+    <string name="temperature_units_c">степени Целзиусови, Ц</string>
+    <string name="temperature_units_f">Фаренхајт, Ф</string>
+    <string name="interface_language">Јазик на интерфејс</string>
+    <string name="setting">Поставки на апликацијата</string>
+    <string name="delete_city">Избриши</string>
+    <string name="select_cities_to_delete_title">Изберете градови за бришење</string>
+    <string name="on_my_location_button_click">За да изберете населби во близина, кликнете на покажувачот на вашата локација.</string>
+    <string name="clouds_description">Облачност</string>
+    <string name="rain_description">Шанса за дожд</string>
+    <string name="visibility">Просечна видливост</string>
+    <string name="metres">метри</string>
+    <string name="feels_like_description">Се чувствува како (Ден/ноќ)</string>
+    <string name="feels_like">Се чувствува како</string>
+    <string name="dayTemperature_min_max">Дневна температура (мин/максимум)</string>
+    <string name="nightTemperature_min_max">Ноќна температура (мин/максимум)</string>
+    <string name="precipitation_volume">Волумен на врнежи</string>
+    <string name="snow_volume">Волумен на снег</string>
+    <string name="pressure_description">Притисок</string>
+    <string name="humidity_description">Влажност на воздухот</string>
+    <string name="wind_speed_description">Брзина на ветер</string>
+    <string name="metre_sec">метар/сек</string>
+    <string name="miles_hour">милји/час</string>
+    <string name="widgetPromo">Не заборавајте да го додадете графичкиот елемент на почетниот екран на вашиот телефон!</string>
+</resources>

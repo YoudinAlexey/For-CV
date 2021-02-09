@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天気</string>
+    <string name="hourly_weather">毎時の天気</string>
+    <string name="daily_weather">毎日の天気</string>
+    <string name="find_city">都市を検索</string>
+    <string name="setting_vidget">ウィジェットの設定</string>
+    <string name="hint_find_city">都市を検索</string>
+    <string name="content_description_find_city">都市を検索</string>
+    <string name="button_no">いいえ</string>
+    <string name="button_yes">はい</string>
+    <string name="error">和解の名前を入力してください</string>
+    <string name="errorFindCity">検索エラー、正しく書き込む、または地図上で検索</string>
+    <string name="help_find_field">検索フィールドに決済の名前を入力するか、地図で検索します</string>
+    <string name="confirmCityDialogTitle">都市ダイアログの確認</string>
+    <string name="cancel">キャンセル</string>
+    <string name="ok"> OK </string>
+    <string name="no_selected_city">選択された都市はありません</string>
+    <string name="temperature_units">温度の単位</string>
+    <string name="temperature_units_c">摂氏、C </string>
+    <string name="temperature_units_f">華氏、F </string>
+    <string name="interface_language">インターフェース言語</string>
+    <string name="setting">アプリケーション設定</string>
+    <string name="delete_city">削除</string>
+    <string name="select_cities_to_delete_title">削除する都市を選択</string>
+    <string name="on_my_location_button_click">近くの集落を選択するには、現在地のポインターをクリックします。</string>
+    <string name="clouds_description">曇り</string>
+    <string name="rain_description">雨の可能性</string>
+    <string name="visibility">平均的な可視性</string>
+    <string name="metres">メートル</string>
+    <string name="feels_like_description">（昼/夜）のように感じる</string>
+    <string name="feels_like">好きな気分</string>
+    <string name="dayTemperature_min_max">日中の気温（最小/最大）</string>
+    <string name="nightTemperature_min_max">夜間の気温（最小/最大）</string>
+    <string name="precipitation_volume">降水量</string>
+    <string name="snow_volume">雪の量</string>
+    <string name="pressure_description">圧力</string>
+    <string name="humidity_description">湿度</string>
+    <string name="wind_speed_description">風速</string>
+    <string name="metre_sec">メートル/秒</string>
+    <string name="miles_hour">マイル/時</string>
+    <string name="widgetPromo">スマートフォンのホーム画面にウィジェットを追加することを忘れないでください！</string>
+</resources>

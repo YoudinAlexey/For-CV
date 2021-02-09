@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <variable
+            name="mainactivityviewmodel"
+            type="ua.youdin.weatherapp.ui.mainactivity.MainActivityViewModel" />
+
+        <variable
+            name="viewmodel"
+            type="ua.youdin.weatherapp.ui.weather.DailyWeatherViewModel" />
+    </data>
+        <ua.youdin.weatherapp.servise.ScrollChildSwipeRefreshLayout
+            android:id="@+id/dealy_refresh_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:onRefreshListener="@{mainactivityviewmodel::refresh}"
+            app:refreshing="@{mainactivityviewmodel.dataLoading}">
+
+            <RelativeLayout
+                android:id="@+id/daily_weather_container_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="vertical">
+
+                <androidx.core.widget.NestedScrollView
+                    android:id="@+id/daily_weather_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="@{viewmodel.emptyDailyList ? View.GONE : View.VISIBLE}"
+                    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/daily_weather_list"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                        tools:listitem="@layout/item_daily_weather" />
+                </androidx.core.widget.NestedScrollView>
+
+                <LinearLayout
+                    android:id="@+id/no_dailyweather_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:visibility="@{viewmodel.emptyDailyList ? View.VISIBLE : View.GONE}">
+
+<!--                    <ImageView-->
+<!--                        android:id="@+id/daily_img"-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="match_parent"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:contentDescription="@string/no_selected_city"-->
+<!--                        app:srcCompat="@drawable/splash" />-->
+                </LinearLayout>
+            </RelativeLayout>
+        </ua.youdin.weatherapp.servise.ScrollChildSwipeRefreshLayout>
+</layout>

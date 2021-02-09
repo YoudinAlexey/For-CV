@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="hourly_weather">Погодинна погода</string>
+    <string name="daily_weather">Щоденна погода</string>
+    <string name="find_city">Знайти місто</string>
+    <string name="setting_vidget">Налаштування віджету</string>
+    <string name="hint_find_city">Знайти місто</string>
+    <string name="content_description_find_city">Знайти місто</string>
+    <string name="button_no">Ні</string>
+    <string name="button_yes">Так</string>
+    <string name="error">Введіть назву населеного пункту</string>
+    <string name="errorFindCity">Помилка пошуку, правильно напишіть або знайдіть на карті</string>
+    <string name="help_find_field">Введіть назву населеного пункту в поле пошуку або знайдіть на карті</string>
+    <string name="confirmCityDialogTitle">Підтвердити діалогове вікно міста</string>
+    <string name="cancel">Скасувати</string>
+    <string name="ok">Добре</string>
+    <string name="no_selected_city">Не вибране місто</string>
+    <string name="temperature_units">Одиниці температури</string>
+    <string name="temperature_units_c">градуси Цельсія, C</string>
+    <string name="temperature_units_f">Фаренгейт, F</string>
+    <string name="interface_language">Мова інтерфейсу</string>
+    <string name="setting">Налаштування програми</string>
+    <string name="delete_city">Видалити</string>
+    <string name="select_cities_to_delete_title">Виберіть міста для видалення</string>
+    <string name="on_my_location_button_click">Щоб вибрати населені пункти поблизу, натисніть на вказівник вашого місцезнаходження.</string>
+    <string name="clouds_description">Хмарність</string>
+    <string name="rain_description">Можливість дощу</string>
+    <string name="visibility">Середня видимість</string>
+    <string name="metres">метри</string>
+    <string name="feels_like_description">Відчувається як (День/Ніч)</string>
+    <string name="feels_like">Відчувається як</string>
+    <string name="dayTemperature_min_max">Температура вдень (мін/макс)</string>
+    <string name="nightTemperature_min_max">Нічна температура (мін/макс)</string>
+    <string name="precipitation_volume">Обсяг опадів</string>
+    <string name="snow_volume">Обсяг снігу</string>
+    <string name="pressure_description">Тиск</string>
+    <string name="humidity_description">Вологість</string>
+    <string name="wind_speed_description">Швидкість вітру</string>
+    <string name="metre_sec">метри за сек</string>
+    <string name="miles_hour">милі за годину</string>
+    <string name="widgetPromo">Не забудьте додати віджет на головний екран телефону!</string>
+</resources>

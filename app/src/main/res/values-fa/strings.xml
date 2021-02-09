@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">آب و هوا</string>
+    <string name="hourly_weather"> هوای ساعتی </string>
+    <string name="daily_weather"> آب و هوای روزانه </string>
+    <string name="find_city"> یافتن شهر </string>
+    <string name="setting_vidget"> تنظیم ویجت </string>
+    <string name="hint_find_city"> یافتن شهر </string>
+    <string name="content_description_find_city"> یافتن شهر </string>
+    <string name="button_no"> خیر </string>
+    <string name="button_yes"> بله </string>
+    <string name="error"> نام تسویه حساب  را وارد کنید</string>
+    <string name="errorFindCity"> خطای جستجو ، درست بنویسید یا روی نقشه پیدا کنید </string>
+    <string name="help_find_field"> نام حل و فصل را در قسمت جستجو وارد کنید یا روی نقشه پیدا کنید </string>
+    <string name="confirmCityDialogTitle"> گفتگوی شهر را تأیید کنید </string>
+    <string name="cancel"> لغو </string>
+    <string name="ok"> خوب </string>
+    <string name="no_selected_city"> شهر انتخاب نشده </string>
+    <string name="temperature_units"> واحدهای دما </string>
+    <string name="temperature_units_c"> درجه سانتیگراد ، درجه </string>
+    <string name="temperature_units_f"> فارنهایت ، اف </string>
+    <string name="interface_language"> زبان رابط </string>
+    <string name="setting"> تنظیمات برنامه </string>
+    <string name="delete_city"> حذف </string>
+    <string name="select_cities_to_delete_title"> شهرها را برای حذف انتخاب کنید </string>
+    <string name="on_my_location_button_click"> برای انتخاب شهرک های نزدیک ، روی نشانگر مکان خود کلیک کنید. </string>
+    <string name="clouds_description"> ابری </string>
+    <string name="rain_description"> احتمال باران </string>
+    <string name="visibility"> دید متوسط</string>
+    <string name="metres"> متر </string>
+    <string name="feels_like_description"> احساس (روز / شب)  است</string>
+    <string name="feels_like"> احساس  می شود</string>
+    <string name="dayTemperature_min_max"> دمای روز (حداقل / حداکثر) </string>
+    <string name="nightTemperature_min_max"> دمای شب (دقیقه / حداکثر) </string>
+    <string name="precipitation_volume"> حجم بارش </string>
+    <string name="snow_volume"> حجم برف </string>
+    <string name="pressure_description"> فشار </string>
+    <string name="humidity_description"> رطوبت </string>
+    <string name="wind_speed_description"> سرعت باد </string>
+    <string name="metre_sec"> متر / ثانیه </string>
+    <string name="miles_hour"> مایل در ساعت </string>
+    <string name="widgetPromo"> فراموش نکنید که ویجت را به صفحه اصلی تلفن خود اضافه کنید! </string>
+</resources>

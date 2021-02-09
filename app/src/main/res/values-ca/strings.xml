@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El temps</string>
+    <string name="hourly_weather">Temps horari</string>
+    <string name="daily_weather">Temps diari</string>
+    <string name="find_city">Cerca ciutat</string>
+    <string name="setting_vidget">Configuració del widget</string>
+    <string name="hint_find_city">Cerca ciutat</string>
+    <string name="content_description_find_city">Cerca ciutat</string>
+    <string name="button_no">No</string>
+    <string name="button_yes">Sí</string>
+    <string name="error">Introduïu el nom de la liquidació</string>
+    <string name="errorFindCity">Error de cerca, escriptura correctament o cerca al mapa</string>
+    <string name="help_find_field">Introduïu el nom de l\'assentament al camp de cerca o cerqueu-lo al mapa</string>
+    <string name="confirmCityDialogTitle">Confirma el diàleg de ciutat</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="ok">D\'acord</string>
+    <string name="no_selected_city">Cap ciutat seleccionada</string>
+    <string name="temperature_units">Unitats de temperatura</string>
+    <string name="temperature_units_c">graus centígrads, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Idioma de la interfície</string>
+    <string name="setting">Configuració de l\'aplicació</string>
+    <string name="delete_city">Suprimeix</string>
+    <string name="select_cities_to_delete_title">Seleccioneu les ciutats que voleu suprimir</string>
+    <string name="on_my_location_button_click">Per seleccionar assentaments propers, feu clic al punter de la vostra ubicació.</string>
+    <string name="clouds_description">Ennuvolat</string>
+    <string name="rain_description">Possibilitat de pluja</string>
+    <string name="visibility">Visibilitat mitjana</string>
+    <string name="metres">metres</string>
+    <string name="feels_like_description">Se sent com (Dia/Nit)</string>
+    <string name="feels_like">Se sent com</string>
+    <string name="dayTemperature_min_max">Temperatura diürna (mínima/màxima)</string>
+    <string name="nightTemperature_min_max">Temperatura nocturna (mínima/màxima)</string>
+    <string name="precipitation_volume">Volum de precipitació</string>
+    <string name="snow_volume">Volum de neu</string>
+    <string name="pressure_description">Pressió</string>
+    <string name="humidity_description">Humitat</string>
+    <string name="wind_speed_description">Velocitat del vent</string>
+    <string name="metre_sec">metre/segon</string>
+    <string name="miles_hour">milles/hora</string>
+    <string name="widgetPromo">No oblideu afegir el widget a la pantalla d\'inici del vostre telèfon.</string>
+</resources>

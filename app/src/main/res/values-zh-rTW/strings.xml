@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天氣</string>
+    <string name="hourly_weather">每小時的天氣</string>
+    <string name="daily_weather">每日天氣</string>
+    <string name="find_city">查找城市</string>
+    <string name="setting_vidget">窗口小部件設置</string>
+    <string name="hint_find_city">查找城市</string>
+    <string name="content_description_find_city">查找城市</string>
+    <string name="button_no">否</string>
+    <string name="button_yes">是</string>
+    <string name="error">輸入和解名稱</string>
+    <string name="errorFindCity">搜索錯誤，正確書寫或在地圖上找到</string>
+    <string name="help_find_field">在搜索字段中輸入定居點的名稱或在地圖上查找</string>
+    <string name="confirmCityDialogTitle">確認城市對話框</string>
+    <string name="cancel">取消</string>
+    <string name="ok">確定</string>
+    <string name="no_selected_city">未選擇城市</string>
+    <!--Setting-->
+    <string name="temperature_units">溫度單位</string> <!--Единицы измерения температуры-->
+    <string name="temperature_units_c">攝氏度，C </string> <!--Единицы измерения температуры-->
+    <string name="temperature_units_f">華氏溫度，F </string> <!--Единицы измерения температуры-->
+    <string name="interface_language">界面語言</string>
+    <string name="setting">應用程序設置</string>
+    <string name="delete_city">刪除</string>
+    <string name="select_cities_to_delete_title">選擇要刪除的城市</string>
+    <string name="on_my_location_button_click">要選擇附近的定居點，請單擊您所在位置的指針。</string>
+    <!--weather-->
+    <string name="clouds_description">陰天</string>  <!--Облачность -->
+    <string name="rain_description">下雨的機會</string><!--Вероятность осадков, % -->
+    <string name="visibility">平均可見度</string><!--Average visibility, metres -->
+    <string name="metres">米</string><!--metres -->
+
+    <string name="feels_like_description">感覺（（日/夜）</string><!--чувствуется как -->
+    <string name="feels_like">感覺</string><!--чувствуется как -->
+    <string name="dayTemperature_min_max">白天溫度（最低/最高）</string><!--дневная температура мин/макс-->
+    <string name="nightTemperature_min_max">夜間溫度（最低/最高）</string><!--ночная температура  мин/макс-->
+
+    <string name="precipitation_volume">降水量</string> <!--Precipitation volume-->
+    <string name="snow_volume">雪量</string> <!--Snow volume, mm-->
+    <string name="pressure_description">壓力</string><!--Давление, мм -->
+    <string name="humidity_description">濕度</string><!--Влажность, % -->
+    <string name="wind_speed_description">風速</string> <!--Ветер, м/сек -->
+
+    <string name="metre_sec">米/秒</string>
+    <string name="miles_hour">英里/小時</string>
+    <string name="widgetPromo">別忘了將小部件添加到手機主屏幕！</string>
+</resources>

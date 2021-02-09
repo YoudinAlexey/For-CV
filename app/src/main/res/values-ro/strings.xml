@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vreme</string>
+    <string name="hourly_weather">Vremea orară</string>
+    <string name="daily_weather">Vremea zilnică</string>
+    <string name="find_city">Găsiți orașul</string>
+    <string name="setting_vidget">Setare widget</string>
+    <string name="hint_find_city">Găsiți orașul</string>
+    <string name="content_description_find_city">Găsiți orașul</string>
+    <string name="button_no">Nu</string>
+    <string name="button_yes">Da</string>
+    <string name="error">Introduceți numele decontării</string>
+    <string name="errorFindCity">Căutare eroare, scrieți corect sau găsiți pe hartă</string>
+    <string name="help_find_field">Introduceți numele așezării în câmpul de căutare sau găsiți pe hartă</string>
+    <string name="confirmCityDialogTitle">Confirmă dialogul orașului</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Niciun oraș selectat</string>
+    <string name="temperature_units">Unități de temperatură</string>
+    <string name="temperature_units_c">grade Celsius, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Limbajul interfeței</string>
+    <string name="setting">Setări aplicație</string>
+    <string name="delete_city">Șterge</string>
+    <string name="select_cities_to_delete_title">Selectați orașele de șters</string>
+    <string name="on_my_location_button_click">Pentru a selecta așezările din apropiere, faceți clic pe indicatorul locației dvs.</string>
+    <string name="clouds_description">Noros</string>
+    <string name="rain_description">Șanse de ploaie</string>
+    <string name="visibility">Vizibilitate medie</string>
+    <string name="metres">meters</string>
+    <string name="feels_like_description">Se simte ca (zi/noapte)</string>
+    <string name="feels_like">Se simte ca</string>
+    <string name="dayTemperature_min_max">Temperatură diurnă (min/max)</string>
+    <string name="nightTemperature_min_max">Temperatura nopții (min/max)</string>
+    <string name="precipitation_volume">Volumul precipitațiilor</string>
+    <string name="snow_volume">Volumul zăpezii</string>
+    <string name="pressure_description">Presiune</string>
+    <string name="humidity_description">Umiditate</string>
+    <string name="wind_speed_description">Viteza vântului</string>
+    <string name="metre_sec">metru/sec</string>
+    <string name="miles_hour">mile/oră</string>
+    <string name="widgetPromo">Nu uitați să adăugați widgetul pe ecranul de pornire al telefonului!</string>
+</resources>

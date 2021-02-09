@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Καιρός</string>
+    <string name="hourly_weather">Ωριαίες καιρικές συνθήκες</string>
+    <string name="daily_weather">Καθημερινός καιρός</string>
+    <string name="find_city">Εύρεση πόλης</string>
+    <string name="setting_vidget">Ρύθμιση widget</string>
+    <string name="hint_find_city">Εύρεση πόλης</string>
+    <string name="content_description_find_city">Εύρεση πόλης</string>
+    <string name="button_no">Όχι</string>
+    <string name="button_yes">Ναι</string>
+    <string name="error">Εισαγάγετε το όνομα του οικισμού</string>
+    <string name="errorFindCity">Σφάλμα αναζήτησης, γράψτε σωστά ή βρείτε στον χάρτη</string>
+    <string name="help_find_field">Εισαγάγετε το όνομα του οικισμού στο πεδίο αναζήτησης ή βρείτε στον χάρτη</string>
+    <string name="confirmCityDialogTitle">Επιβεβαίωση διαλόγου πόλης</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Καμία επιλεγμένη πόλη</string>
+    <string name="temperature_units">Μονάδες θερμοκρασίας</string>
+    <string name="temperature_units_c">βαθμοί Κελσίου, C</string>
+    <string name="temperature_units_f">Φαρενάιτ, F</string>
+    <string name="interface_language">Γλώσσα διεπαφής</string>
+    <string name="setting">Ρυθμίσεις εφαρμογής</string>
+    <string name="delete_city">Διαγραφή</string>
+    <string name="select_cities_to_delete_title">Επιλέξτε πόλεις για διαγραφή</string>
+    <string name="on_my_location_button_click">Για να επιλέξετε οικισμούς κοντά, κάντε κλικ στο δείκτη της τοποθεσίας σας.</string>
+    <string name="clouds_description">Cloudiness</string>
+    <string name="rain_description">Πιθανότητα βροχής</string>
+    <string name="visibility">Μέση ορατότητα</string>
+    <string name="metres">μέτρα</string>
+    <string name="feels_like_description">Αισθάνεται σαν (Μέρα/Νύχτα)</string>
+    <string name="feels_like">Αισθάνεται σαν</string>
+    <string name="dayTemperature_min_max">Θερμοκρασία ημέρας (ελάχιστο / μέγ.)</string>
+    <string name="nightTemperature_min_max">Θερμοκρασία νύχτας (min / max)</string>
+    <string name="precipitation_volume">Όγκος βροχόπτωσης</string>
+    <string name="snow_volume">Ένταση χιονιού</string>
+    <string name="pressure_description">Πίεση</string>
+    <string name="humidity_description">Υγρασία</string>
+    <string name="wind_speed_description">Ταχύτητα ανέμου</string>
+    <string name="metre_sec">μετρητής/δευτερόλεπτο</string>
+    <string name="miles_hour"> μίλια/ώρα </string>
+    <string name="widgetPromo">Μην ξεχάσετε να προσθέσετε το widget στην αρχική οθόνη του τηλεφώνου σας!</string>
+</resources>

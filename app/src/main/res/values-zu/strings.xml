@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Isimo sezulu</string>
+    <string name="hourly_weather">Isimo sezulu esinehora</string>
+    <string name="daily_weather">Isimo sezulu sansuku zonke</string>
+    <string name="find_city">Thola idolobha</string>
+    <string name="setting_vidget">Ukusetha iwijethi</string>
+    <string name="hint_find_city">Thola idolobha</string>
+    <string name="content_description_find_city">Thola idolobha</string>
+    <string name="button_no">Cha</string>
+    <string name="button_yes">Yebo</string>
+    <string name="error">Faka igama lendawo yokuhlala</string>
+    <string name="errorFindCity">Sesha iphutha, bhala ngendlela efanele noma uthole emephini</string>
+    <string name="help_find_field">Faka igama lokuhlala kunkambu yosesho noma thola emephini</string>
+    <string name="confirmCityDialogTitle">Qinisekisa ibhokisi ledolobha</string>
+    <string name="cancel">Khansela</string>
+    <string name="ok">KULUNGILE</string>
+    <string name="no_selected_city">Alikho idolobha elikhethiwe</string>
+    <string name="temperature_units">Amayunithi wethempelesha</string>
+    <string name="temperature_units_c">ama-degree Celsius, C</string>
+    <string name="temperature_units_f">I-Fahrenheit, F</string>
+    <string name="interface_language">Ulimi lwesixhumi</string>
+    <string name="setting">Izilungiselelo zohlelo lokusebenza</string>
+    <string name="delete_city">Susa</string>
+    <string name="select_cities_to_delete_title">Khetha amadolobha ozowasusa</string>
+    <string name="on_my_location_button_click">Ukukhetha izindawo eziseduze, chofoza kusikhombi sendawo okuyo.</string>
+    <string name="clouds_description">I-Cloudiness</string>
+    <string name="rain_description">Ithuba lemvula</string>
+    <string name="visibility">Ukubonakala okumaphakathi</string>
+    <string name="metres">amamitha</string>
+    <string name="feels_like_description">Uzwa sengathi (Imini/Ubusuku)</string>
+    <string name="feels_like">Uzwa sengathi</string>
+    <string name="dayTemperature_min_max">Ithempelesha yasemini (imin/ubuningi)</string>
+    <string name="nightTemperature_min_max">Ithempelesha yasebusuku (imin/ubuningi)</string>
+    <string name="precipitation_volume">Ivolumu yokwehlisa</string>
+    <string name="snow_volume">Ivolumu yeqhwa</string>
+    <string name="pressure_description">Ingcindezi</string>
+    <string name="humidity_description">Umswakama</string>
+    <string name="wind_speed_description">Isivinini somoya</string>
+    <string name="metre_sec">imitha/isekhondi</string>
+    <string name="miles_hour">amamayela/ihora</string>
+    <string name="widgetPromo">Ungakhohlwa ukufaka iwijethi esikrinini sakho sasekhaya sefoni!</string>
+</resources>

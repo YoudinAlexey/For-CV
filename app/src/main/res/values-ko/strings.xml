@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">날씨</string>
+    <string name="hourly_weather">시간별 날씨</string>
+    <string name="daily_weather">일일 날씨</string>
+    <string name="find_city">도시 찾기</string>
+    <string name="setting_vidget">위젯 설정</string>
+    <string name="hint_find_city">도시 찾기</string>
+    <string name="content_description_find_city">도시 찾기</string>
+    <string name="button_no">아니요</string>
+    <string name="button_yes">예</string>
+    <string name="error">결제 이름 입력</string>
+    <string name="errorFindCity">검색 오류, 올바르게 쓰거나지도에서 찾기</string>
+    <string name="help_find_field">검색 필드에 정착지 이름을 입력하거나지도에서 찾기</string>
+    <string name="confirmCityDialogTitle">도시 확인 대화 상자</string>
+    <string name="cancel">취소</string>
+    <string name="ok">확인</string>
+    <string name="no_selected_city">선택한 도시 없음</string>
+    <string name="temperature_units">온도 단위</string>
+    <string name="temperature_units_c">섭씨, C</string>
+    <string name="temperature_units_f">화씨, F</string>
+    <string name="interface_language">인터페이스 언어</string>
+    <string name="setting">애플리케이션 설정</string>
+    <string name="delete_city">삭제</string>
+    <string name="select_cities_to_delete_title">삭제할 도시 선택</string>
+    <string name="on_my_location_button_click">근처의 정착지를 선택하려면 해당 지역의 포인터를 클릭하십시오.</string>
+    <string name="clouds_description">흐림</string>
+    <string name="rain_description">비가 올 확률</string>
+    <string name="visibility">평균 가시성</string>
+    <string name="metres">미터</string>
+    <string name="feels_like_description">(낮/밤) 느낌</string>
+    <string name="feels_like">좋아요</string>
+    <string name="dayTemperature_min_max">주간 온도 (최소/최대)</string>
+    <string name="nightTemperature_min_max">야간 온도 (최소/최대)</string>
+    <string name="precipitation_volume">강수량</string>
+    <string name="snow_volume">눈 볼륨</string>
+    <string name="pressure_description">압력</string>
+    <string name="humidity_description">습도</string>
+    <string name="wind_speed_description">풍속</string>
+    <string name="metre_sec">미터 / 초</string>
+    <string name="miles_hour">마일 / 시간</string>
+    <string name="widgetPromo">휴대 전화 홈 화면에 위젯을 추가하는 것을 잊지 마십시오!</string>
+</resources>

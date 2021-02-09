@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/dailyTabLayout">
+
+    <fragment
+        android:id="@+id/dailyTabLayout"
+        android:name="ua.youdin.weatherapp.ui.daily.DailyTabLayout"
+        android:label="DailyTabLayout">
+        <action
+            android:id="@+id/action_dailyTabLayout_to_findCityFragment"
+            app:destination="@id/findCityFragment"
+            app:popUpTo="@id/navigation_graph" />
+    </fragment>
+    <fragment
+        android:id="@+id/hourlyTabLayout"
+        android:name="ua.youdin.weatherapp.ui.hourly.HourlyTabLayout"
+        android:label="HourlyTabLayout">
+        <action
+            android:id="@+id/action_hourlyTabLayout_to_findCityFragment"
+            app:destination="@id/findCityFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/findCityFragment"
+        android:name="ua.youdin.weatherapp.ui.findCity.FindCityFragment"
+        android:label="FindCityFragment" />
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="ua.youdin.weatherapp.ui.settings.SettingFragment"
+        android:label="SettingFragment" />
+    <action android:id="@+id/action_global_dailyTabLayout" app:destination="@id/dailyTabLayout" />
+</navigation>

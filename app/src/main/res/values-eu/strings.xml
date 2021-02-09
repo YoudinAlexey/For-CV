@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eguraldia</string>
+    <string name="hourly_weather">Orduko eguraldia</string>
+    <string name="daily_weather">Eguneko eguraldia</string>
+    <string name="find_city">Bilatu hiria</string>
+    <string name="setting_vidget">Widgeten ezarpena</string>
+    <string name="hint_find_city">Bilatu hiria</string>
+    <string name="content_description_find_city">Bilatu hiria</string>
+    <string name="button_no">Ez</string>
+    <string name="button_yes">Bai</string>
+    <string name="error">Idatzi likidazioaren izena</string>
+    <string name="errorFindCity">Bilaketa-errorea, idatzi zuzen edo aurkitu mapan</string>
+    <string name="help_find_field">Idatzi likidazioaren izena bilaketa eremuan edo bilatu mapan</string>
+    <string name="confirmCityDialogTitle">Berretsi hiria elkarrizketa-koadroa</string>
+    <string name="cancel">Utzi</string>
+    <string name="ok">Ados</string>
+    <string name="no_selected_city">Ez da hautatutako hiririk</string>
+    <string name="temperature_units">Tenperatura unitateak</string>
+    <string name="temperature_units_c">gradu Celsius, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Interfazearen hizkuntza</string>
+    <string name="setting">Aplikazioaren ezarpenak</string>
+    <string name="delete_city">Ezabatu</string>
+    <string name="select_cities_to_delete_title">Aukeratu ezabatu beharreko hiriak</string>
+    <string name="on_my_location_button_click">Inguruko likidazioak hautatzeko, egin klik zure kokapenaren erakuslearen gainean.</string>
+    <string name="clouds_description">Hodeiak</string>
+    <string name="rain_description">Euri aukera</string>
+    <string name="visibility">Batez besteko ikusgaitasuna</string>
+    <string name="metres">meters</string>
+    <string name="feels_like_description">Sentitzen du (Eguna / Gaua)</string>
+    <string name="feels_like">Sentitzen du</string>
+    <string name="dayTemperature_min_max">Eguneko tenperatura (min / max)</string>
+    <string name="nightTemperature_min_max">Gaueko tenperatura (min/max)</string>
+    <string name="precipitation_volume">Prezipitazioen bolumena</string>
+    <string name="snow_volume">Elur bolumena</string>
+    <string name="pressure_description">Presioa</string>
+    <string name="humidity_description">Hezetasuna</string>
+    <string name="wind_speed_description">Haizearen abiadura</string>
+    <string name="metre_sec">metro/seg</string>
+    <string name="miles_hour">milia/ordu</string>
+    <string name="widgetPromo">Ez ahaztu widget-a telefonoaren hasierako pantailan gehitzea!</string>
+</resources>

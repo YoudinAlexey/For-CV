@@ -1,0 +1,63 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--Top level DayNight theme to be used in AndroidManifest.xml-->
+    <style name="Theme.WeatherApp" parent="Base.Theme.WeatherApp"/>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherApp" parent="Base.Theme.MaterialThemeBuilder">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/gray_920</item>
+        <item name="colorPrimaryVariant">@color/gray_950</item>
+        <item name="colorOnPrimary">@color/wite</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/yelow_200</item>
+        <item name="colorSecondaryVariant">@color/yelow_500</item>
+        <item name="colorOnSecondary">@color/black_800</item>
+        <item name="android:colorBackground">@color/gray_550</item>
+        <item name="colorSurface">@color/gray_400</item>
+        <item name="colorError">@color/red_600_</item>
+        <item name="colorOnError">@color/gray_600</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!--Material type attributes-->
+        <item name="textAppearanceHeadline1">@style/TextAppearance.Theme.Headline1</item>
+        <item name="textAppearanceHeadline2">@style/TextAppearance.Theme.Headline2</item>
+        <item name="textAppearanceHeadline3">@style/TextAppearance.Theme.Headline3</item>
+        <item name="textAppearanceHeadline4">@style/TextAppearance.Theme.Headline4</item>
+        <item name="textAppearanceHeadline5">@style/TextAppearance.Theme.Headline5</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.Theme.Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.Theme.Subtitle1</item>
+        <item name="textAppearanceSubtitle2">@style/TextAppearance.Theme.Subtitle2</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.Theme.Body1</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.Theme.Body2</item>
+        <item name="textAppearanceButton">@style/TextAppearance.Theme.Button</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.Theme.Caption</item>
+        <item name="textAppearanceOverline">@style/TextAppearance.Theme.Overline</item>
+        <!--Material shape attributes-->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.Theme.SmallComponent
+        </item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.Theme.MediumComponent
+        </item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.Theme.LargeComponent
+        </item>
+        <!--Component styles-->
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.MaterialComponents.Dialog.Alert
+        </item>
+        <item name="bottomSheetDialogTheme">@style/ThemeOverlay.Theme.BottomSheetDialog</item>
+        <item name="navigationViewStyle">@style/Widget.Theme.NavigationView</item>
+        <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar.PrimarySurface</item>
+
+
+        <item name="bottomNavigationStyle">@style/Widget.App.BottomNavigationView</item>
+        <item name="tabStyle">@style/Widget.App.TabLayout</item>
+        <item name="textInputStyle">@style/Widget.App.TextInputLayout</item>
+    </style>
+
+
+    <style name="Base.Theme.MaterialThemeBuilder" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor" tools:ignore="NewApi">?attr/colorPrimaryVariant</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">true</item>
+        <item name="android:navigationBarColor" tools:ignore="NewApi">?attr/colorPrimaryVariant</item>
+        <item name="android:windowLightNavigationBar" tools:ignore="NewApi">true</item>
+        <item name="android:navigationBarDividerColor" tools:ignore="NewApi">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
+

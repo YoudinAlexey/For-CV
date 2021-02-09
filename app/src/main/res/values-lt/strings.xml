@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orai</string>
+    <string name="hourly_weather">Oras kas valandą</string>
+    <string name="daily_weather">Oras kasdien</string>
+    <string name="find_city">Rasti miestą</string>
+    <string name="setting_vidget">Valdiklio nustatymas</string>
+    <string name="hint_find_city">Rasti miestą</string>
+    <string name="content_description_find_city">Rasti miestą</string>
+    <string name="button_no">Ne</string>
+    <string name="button_yes">Taip</string>
+    <string name="error">Įveskite gyvenvietės pavadinimą</string>
+    <string name="errorFindCity">Paieškos klaida, parašykite teisingai arba raskite žemėlapyje</string>
+    <string name="help_find_field">Įveskite gyvenvietės pavadinimą paieškos lauke arba raskite žemėlapyje</string>
+    <string name="confirmCityDialogTitle">Patvirtinti miesto dialogo langą</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="ok">Gerai</string>
+    <string name="no_selected_city">Nepasirinktas miestas</string>
+    <string name="temperature_units">Temperatūros vienetai</string>
+    <string name="temperature_units_c">laipsnių Celsijaus, C</string>
+    <string name="temperature_units_f">Farenheitas, F</string>
+    <string name="interface_language">Sąsajos kalba</string>
+    <string name="setting">Programos nustatymai</string>
+    <string name="delete_city">Ištrinti</string>
+    <string name="select_cities_to_delete_title">Pasirinkite miestus, kuriuos norite ištrinti</string>
+    <string name="on_my_location_button_click">Jei norite pasirinkti netoliese esančias gyvenvietes, spustelėkite savo vietos rodyklę.</string>
+    <string name="clouds_description">Debesuotumas</string>
+    <string name="rain_description">Lietaus tikimybė</string>
+    <string name="visibility">Vidutinis matomumas</string>
+    <string name="metres">metrai</string>
+    <string name="feels_like_description">Jaučiasi kaip (diena/naktis)</string>
+    <string name="feels_like">Jaučiasi kaip</string>
+    <string name="dayTemperature_min_max">Dienos temperatūra (min/maks.)</string>
+    <string name="nightTemperature_min_max">Nakties temperatūra (min./maks.)</string>
+    <string name="precipitation_volume">Kritulių kiekis</string>
+    <string name="snow_volume">Sniego kiekis</string>
+    <string name="pressure_description">Slėgis</string>
+    <string name="humidity_description">Drėgmė</string>
+    <string name="wind_speed_description">Vėjo greitis</string>
+    <string name="metre_sec">metras/sek</string>
+    <string name="miles_hour">mylios per valandą</string>
+    <string name="widgetPromo">Nepamirškite pridėti valdiklio prie savo telefono pagrindinio ekrano!</string>
+</resources>

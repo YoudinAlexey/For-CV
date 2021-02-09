@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wetter</string>
+    <string name="hourly_weather">Stündliches Wetter</string>
+    <string name="daily_weather">Tägliches Wetter</string>
+    <string name="find_city">Stadt suchen</string>
+    <string name="setting_vidget">Widget-Einstellung</string>
+    <string name="hint_find_city">Stadt suchen</string>
+    <string name="content_description_find_city">Stadt suchen</string>
+    <string name="button_no">Nein</string>
+    <string name="button_yes">Ja</string>
+    <string name="error">Geben Sie den Namen der Siedlung ein</string>
+    <string name="errorFindCity">Suchfehler, richtig schreiben oder auf der Karte finden</string>
+    <string name="help_find_field">Geben Sie den Namen der Siedlung in das Suchfeld ein oder suchen Sie auf der Karte</string>
+    <string name="confirmCityDialogTitle">Bestätigen Sie den Stadtdialog</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ok">OK</string>
+    <string name="no_selected_city">Keine ausgewählte Stadt</string>
+    <string name="temperature_units">Temperatureinheiten</string>
+    <string name="temperature_units_c">Grad Celsius, C</string>
+    <string name="temperature_units_f">Fahrenheit, F</string>
+    <string name="interface_language">Schnittstellensprache</string>
+    <string name="setting">Anwendungseinstellungen</string>
+    <string name="delete_city">Löschen</string>
+    <string name="select_cities_to_delete_title">Wählen Sie die zu löschenden Städte aus</string>
+    <string name="on_my_location_button_click">Um Siedlungen in der Nähe auszuwählen, klicken Sie auf den Zeiger Ihres Standorts.</string>
+    <string name="clouds_description">Bewölkung</string>
+    <string name="rain_description">Regenwahrscheinlichkeit</string>
+    <string name="visibility">Durchschnittliche Sichtbarkeit</string>
+    <string name="metres">meter</string>
+    <string name="feels_like_description">Fühlt sich an wie (Tag/Nacht)</string>
+    <string name="feels_like">Fühlt sich an wie</string>
+    <string name="dayTemperature_min_max">Tagestemperatur (min/max)</string>
+    <string name="nightTemperature_min_max">Nachttemperatur (min/max)</string>
+    <string name="precipitation_volume">Niederschlagsvolumen</string>
+    <string name="snow_volume">Schneevolumen</string>
+    <string name="pressure_description">Druck</string>
+    <string name="humidity_description">Luftfeuchtigkeit</string>
+    <string name="wind_speed_description">Windgeschwindigkeit</string>
+    <string name="metre_sec">meter/sec</string>
+    <string name="miles_hour">Meilen/Stunde</string>
+    <string name="widgetPromo">Vergessen Sie nicht, das Widget zum Startbildschirm Ihres Telefons hinzuzufügen!</string>
+</resources>

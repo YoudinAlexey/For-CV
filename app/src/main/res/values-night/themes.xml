@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WeatherApp" parent="Base.Theme.WeatherApp">
+        <item name="colorPrimary">@color/yelow_200</item>
+        <item name="android:colorBackground">@color/gray_900_</item>
+        <item name="colorSurface">@color/gray_700</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:windowLightNavigationBar" tools:ignore="NewApi">false</item>
+    </style>
+</resources>
